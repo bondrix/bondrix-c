@@ -14,4 +14,4 @@ ensure bondrix-clock
 ```
 
 ## Configuration
-Every configuration option along with its explainations can be found in [shared/config.lua](https://github.com/bondrix/bondrix-cllock/blob/main/shared/config.lua).
+Every configuration option along with its explainations can be found in [shared/config.lua](https://github.com/bondrix/bondrix-clock/blob/main/shared/config.lua).
