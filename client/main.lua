@@ -1,4 +1,5 @@
-SetMillisecondsPerGameMinute(BondrixClock.Config.milliseconds)
+-- 1 real minute per game minute.
+SetMillisecondsPerGameMinute(60000)
 
 function BondrixClock.SetTime(time)
     NetworkOverrideClockTime(time.hour, time.minute, time.second)
