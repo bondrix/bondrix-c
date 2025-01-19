@@ -1,5 +1,5 @@
-BondrixResource = {}
+BondrixClock = {}
 
 exports('GetObject', function()
-    return BondrixResource
+    return BondrixClock
 end)

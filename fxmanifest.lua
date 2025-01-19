@@ -2,14 +2,9 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Bondrix'
-description 'Resource description goes here.'
-repository 'https://github.com/bondrix/bondrix-resource'
+description 'A customizable clock that syncs the FiveM''s server time and date to a specified timezone.'
+repository 'https://github.com/bondrix/bondrix-clock'
 version '1.0.0'
-
-dependencies {
-    'bondrix-example-1',
-    'bondrix-example-2'
-}
 
 client_scripts {
     'client/main.lua'
