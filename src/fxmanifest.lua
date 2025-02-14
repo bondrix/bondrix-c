@@ -4,7 +4,7 @@ game 'gta5'
 name 'bondrix-clock'
 author 'Bondrix'
 description 'A customizable clock that syncs the FiveM''s server time and date to a specified time zone.'
-repository 'https://github.com/bondrix/bondrix-clock'
+repository 'https://github.com/bondrix/clock"
 version '1.0.0'
 
 client_scripts {
